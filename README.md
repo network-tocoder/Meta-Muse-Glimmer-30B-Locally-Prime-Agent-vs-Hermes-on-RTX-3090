@@ -17,7 +17,7 @@
 
 The video contains the complete walkthrough, performance measurements, architecture explanation, controlled test, workflow differences and final verdict.
 
-> **This repository is intentionally a companion—not a replacement for the video.** It provides the essential commands and configuration references, while the complete benchmark prompt, test project and detailed results remain in the video.
+ **This repository is intentionally a companion—not a replacement for the video.** It provides the essential commands and configuration references, while the complete benchmark prompt, test project and detailed results remain in the video.
 
 ---
 
