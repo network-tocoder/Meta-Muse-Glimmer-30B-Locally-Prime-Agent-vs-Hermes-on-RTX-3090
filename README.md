@@ -5,7 +5,7 @@
 ![Runtime](https://img.shields.io/badge/Runtime-llama.cpp-2563eb?style=for-the-badge)
 ![Harnesses](https://img.shields.io/badge/Harnesses-Prime%20Agent%20%7C%20Hermes-f59e0b?style=for-the-badge)
 
-> Run **Muse Glimmer 30B** locally through an OpenAI-compatible endpoint, connect it to **Prime Agent** and **Hermes**, and compare both harnesses under the same conditions.
+ Run **Muse Glimmer 30B** locally through an OpenAI-compatible endpoint, connect it to **Prime Agent** and **Hermes**, and compare both harnesses under the same conditions.
 
 ---
 
