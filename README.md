@@ -11,7 +11,7 @@
 
 ## 📺 Watch the Video First
 
-[![Watch on YouTube](https://img.shields.io/badge/▶_Watch_the_Full_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch on YouTube](https://img.shields.io/badge/▶_Watch_the_Full_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Lkdww0s_xxs)
 
 ### **Meta Muse Glimmer 30B Locally: Prime Agent vs Hermes on RTX 3090**
 
